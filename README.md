@@ -1,0 +1,1 @@
+This is the repo for homeworks for Soft Serve Java Script course.
